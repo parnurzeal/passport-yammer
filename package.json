@@ -22,7 +22,7 @@
   "main": "./lib/passport-yammer",
   "dependencies": {
     "pkginfo": "0.2.x",
-    "passport-oauth": "0.1.x"
+    "passport-oauth": "https://github.com/parnurzeal/passport-oauth/tarball/master"
   },
   "devDependencies": {
     "vows": "0.6.x"
